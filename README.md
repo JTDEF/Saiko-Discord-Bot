@@ -2,7 +2,7 @@
 
 
 <p align="center">
-    
+    <img src="https://nodejs.org/static/images/logo.svg" alt="Node.js" width="122" height="75">https://nodejs.org
 </p>
 
 
